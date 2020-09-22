@@ -139,8 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="B1001. (3n+1)猜想.cpp" />
-    <ClCompile Include="B1011. A+B和C.cpp" />
+    <ClCompile Include="B1016. 部分A+B.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
